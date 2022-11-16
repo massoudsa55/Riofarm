@@ -82,7 +82,7 @@ Screenshots
 
 ***
 
-#The source code is not free
+<h1 align="center">The source code is not free</h1>
 
 
 
