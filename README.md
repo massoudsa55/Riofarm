@@ -65,8 +65,8 @@ Screenshots
 ***
 
 <p float="center">
-<img src="https://user-images.githubusercontent.com/33179371/202043825-86434cff-798b-489f-8f16-c0c470b0c56a.jpg" width=390 align="middle" hspace="20" vspace="20"/>
-  <img src="https://user-images.githubusercontent.com/33179371/202043818-c6a12596-4c75-413e-b79c-19e4faaa68ac.jpg" width=390 align="middle" />
+  <img src="https://user-images.githubusercontent.com/33179371/202050376-8426877c-8246-48ff-bb6d-be15082232ae.jpg" width=390 align="middle" hspace="20" vspace="20"/>
+  <img src="https://user-images.githubusercontent.com/33179371/202043825-86434cff-798b-489f-8f16-c0c470b0c56a.jpg" width=390 align="middle" />
 </p>
 
 ***
